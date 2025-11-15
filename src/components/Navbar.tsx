@@ -8,7 +8,7 @@ const Navbar = () => {
 
   const navLinks = [
     { to: "/", label: "Início" },
-    { to: "/solucao", label: "Solução NEPHTIS" },
+    { to: "/solucao", label: "NEPHTIS" },
     { to: "/clientes", label: "Clientes" },
     { to: "/sobre", label: "Sobre Nós" },
     { to: "/contato", label: "Contato" },
